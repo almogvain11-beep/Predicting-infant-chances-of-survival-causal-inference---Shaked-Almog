@@ -253,7 +253,7 @@ The project was implemented using the following Python libraries:
 ## 📖 Special Thanks
 
 * To our project facilitator, who accompanied us throughout the entire project and program (the project is the final product of the 3-year program) and taught us about the world of data analysis, artificial intelligence, and machine learning, and helped us even late at night.
-* 
+  
 * For Brady Neal for their Causal Inference Course - If you would like to know about the course [please follow this link](https://www.bradyneal.com/causal-inference-course)
 
 ---
