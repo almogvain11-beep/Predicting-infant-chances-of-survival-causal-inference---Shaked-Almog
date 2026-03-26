@@ -249,6 +249,8 @@ The project was implemented using the following Python libraries:
 
 * Or find the 2015 User’s guide for the Birth Cohort Linked Birth files (Which are free for public use) in the [NCHS website](https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm#:~:text=Birth%20%E2%80%93%20Infant%20Death%20Data%20Files-,User%E2%80%99s%20Guide%C2%A0(.pdf%20files),-U.S.%20Data%20(.zip%20files))
 
+* If you would like to read our presentation about this part of the project, [please follow this link](https://www.canva.com/design/DAHE_2i_AvM/WrjnwJhX9SQ4ToO6uTJDqQ/edit?utm_content=DAHE_2i_AvM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ---
 ## 📖 Special Thanks
 
