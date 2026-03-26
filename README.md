@@ -253,6 +253,7 @@ The project was implemented using the following Python libraries:
 ## 📖 Special Thanks
 
 * To our project facilitator, who accompanied us throughout the entire project and program (the project is the final product of the 3-year program) and taught us about the world of data analysis, artificial intelligence, and machine learning, and helped us even late at night.
+* 
 * For Brady Neal for their Causal Inference Course - If you would like to know about the course [please follow this link](https://www.bradyneal.com/causal-inference-course)
 
 ---
@@ -264,10 +265,9 @@ The project was implemented using the following Python libraries:
 
 ### About us👩‍🤝‍👨
 ```text
-
 We are both 17 years old, and this project is the result of a 3-year after-school program.  
-The program focused on data analytics, data science, machine learning, and artificial intelligence, both theoretically and practically using Python.
-
+The program focused on data analytics, data science, machine learning,
+and artificial intelligence, both theoretically and practically using Python.
 ```
 
 ---
